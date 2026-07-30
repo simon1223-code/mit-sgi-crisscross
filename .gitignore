@@ -1,2 +1,4 @@
 .polyscope.ini
 imgui.ini
+__pycache__/
+*.pyc
